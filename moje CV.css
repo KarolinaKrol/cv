@@ -1,0 +1,57 @@
+body {
+	background: black;
+	color: white;
+}
+.info {
+	background: -webkit-linear-gradient(right, #070000, #4C0001);
+	font-size: 15px;
+	width: 30%;
+	display: inline-block;
+}
+.first {
+	background-color: grey;
+	text-align: center;
+	font-size:25px;
+}
+.second {
+	background-color: grey;
+	text-align: center;
+	font-size:25px;
+}
+.light-grey {
+	color:white;
+}
+.grey {
+	color:grey;
+}
+.bar {
+	margin-left: 30%;
+}
+.bar2 {
+	margin-left: 30%;
+}
+p {
+	margin:0px;
+	text-align:center;
+}
+.img {
+	width: 180px;
+	height: 240px;
+	padding-right:	10px;
+	padding-bottom: 20px;
+	padding-top: 10px;
+	margin-left: 100px;
+}
+dt {
+	font-weight:bold;
+}
+.list {
+	float:right;
+	font-size:25px;
+	width: 40%;
+	display: inline-block;
+}
+.pic {
+	list-style-image: url(book2.jpg);
+	list-style-position: outside;
+}
